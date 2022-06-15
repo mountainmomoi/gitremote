@@ -1,5 +1,2 @@
 name?
 D
-C
-B
-A
